@@ -1,0 +1,16 @@
+---
+label: A Guide to the best moving companies
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: feature_text
+  label: feature_text
+- type: file
+  name: feature_image
+  label: feature_image
+- type: text
+  name: excerpt
+  label: excerpt

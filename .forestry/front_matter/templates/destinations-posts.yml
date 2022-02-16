@@ -1,0 +1,25 @@
+---
+label: Destinations  Posts
+hide_body: false
+fields:
+- name: best_cities_in_the_usa_to_move
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Best Cities in the USA to move
+  description: top US cities to live
+- name: how_to_budget_your_move
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: how to budget your move
+pages:
+- Destinations/How to find jobs in another state ?.md
