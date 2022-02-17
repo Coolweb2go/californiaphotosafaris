@@ -3,7 +3,7 @@ title: Resources
 feature_text: |2-
 
   ## Best Cities toi Live in the USA
-feature_image: https://americabyrailandbus.files.wordpress.com/2020/07/san-francisco-market-street-cars.jpg
+feature_image: /assets/images/sunset.webp
 excerpt: Instructions on how to use this site
 aside: true
 

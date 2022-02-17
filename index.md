@@ -1,7 +1,7 @@
 ---
 title: A Guide to finding your new home
 feature_text: "## Best Cities toi Live in the USA"
-feature_image: https://americabyrailandbus.files.wordpress.com/2020/07/san-francisco-market-street-cars.jpg
+feature_image: /assets/images/sunset.webp
 excerpt: "“Leaving the Bay Area is the best thing you can do right now, if you have
   a dream.”"
 
