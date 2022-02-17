@@ -1,42 +1,23 @@
 ---
-title: Discover the beauty of California
+title: Discover the beauty of California through your camera
 feature_text: "## California Sightseeing Tours & Photo Safaris"
-feature_image: /assets/images/sunset.webp
-excerpt: "“Leaving the Bay Area is the best thing you can do right now, if you have
-  a dream.”"
+feature_image: assets/images/sunset.webp
 
 ---
-## A California travel guide for the aspiring, creative photographer
+###  California travel guide for the aspiring, creative photographer
 
-{% include button.html text="Explore Los Angeles" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Go here ☕️" link="https://losangelesphotosafaris.com/" color="#f68140" %}
+{% include button.html text="Explore Los Angeles" icon="github" link="https://losangelesphotosafaris.com/" color="#0366d6" %}
+{% include button.html text="Explore San Diego" icon="github" link="https://sandiegophotosafari.net/" color="#FFA500" %}
 
-## Top 12 US Cities for moving
+## Top most popular cities to visit in California
+San Francisco
+Los Angeles
+San Diego
 
-* Raleigh, North Carolina
-* Austin, Texas
-* Colorado Springs, CO
-* Boston, Massachusetts
-* Portland,Oregon
-* Denver, Colorado
-* Fayetteville,Arkansas
-* Dallas-Forth Worth, Texas
-* [Grand Rapids,Michigan](https://www.michigan.org/city/grand-rapids)
-* [**Boise Idaho**](https://www.homesnacks.com/most-affordable-places-in-idaho/)
-* Sarasota, Florida
-* Raleigh, North Carolina
+
 
 ## My favorite travel blogs
 
-
-
-
-### Looking for a long-distance mover from Southern California to Texas, Florida, etc
-
-[**Socal Elite Movers in California**](https://socalelitemovers.com/)
-
-#### Did you know that Texas is the Top Destination State for Californians ?
-
-[Read the full story here](https://www.rentcafe.com/blog/self-storage/california-effect-texas-top-destination-state-californians/) <br> Of the busiest moving directions, five originate in California, and the interstate migration route that attracted the most people in 2018 was California to Texas. According to STORAGECafé, over 86,000 people chose to relocate from California to tax-free Texas during 2018. Arizona takes second place as the most welcoming state, with more than 68,000 Californian newcomers, followed by Washington, with over 55,000 people who prefer the famously cloudy state over sunny Cali.
 
 ### Register for a sightseeing tour .
 
