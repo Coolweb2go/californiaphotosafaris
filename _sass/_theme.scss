@@ -90,11 +90,11 @@ body {
 
 .footer {
   background: #FDDA0D;
-  color: #fff;
+  color: #000;
   a {
-    color: #fff;
+    color: #000;
     &:hover {
-      color: #c6edf4;
+      color: #000;
     }
   }
   .container {
@@ -102,7 +102,7 @@ body {
   }
   .small {
     padding-top: 0;
-    color: #fff;
+    color: #000;
   }
 }
 
