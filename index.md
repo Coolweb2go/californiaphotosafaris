@@ -1,7 +1,7 @@
 ---
 title: Discover the beauty of California
 feature_text: "## California Sightseeing Tours & Photo Safaris"
-feature_image: assets/images/sunset.webp
+feature_image: /assets/images/sunset.webp
 excerpt: "“Leaving the Bay Area is the best thing you can do right now, if you have
   a dream.”"
 
