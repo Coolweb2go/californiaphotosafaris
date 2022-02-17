@@ -1,5 +1,5 @@
 ---
-title: Discover the beauty of California through your camera
+title: Discover the beauty of California through your camera or Iphone
 feature_text: "## California Sightseeing Tours & Photo Safaris"
 feature_image: assets/images/sunset.webp
 
@@ -18,10 +18,4 @@ feature_image: assets/images/sunset.webp
 -San Diego
 
 
-
-## My favorite travel blogs
-
-
 ### Register for a sightseeing tour .
-
-Got an interesting story to share with my readers about your move to a new city or town ?
