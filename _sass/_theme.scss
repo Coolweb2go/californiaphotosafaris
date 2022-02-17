@@ -459,3 +459,29 @@ pre code {
     overflow-x: scroll;
   }
 }
+
+
+/* Extra css */
+header.header .feature {
+  position: relative;
+}
+
+header.header .feature:before {
+  background: linear-gradient(0deg, rgb(253 218 13) 21%, rgb(255 255 255 / 57%) 75%);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  content: "";
+  z-index: 1;
+}
+
+header.header .feature .container {
+  z-index: 2;
+  position: relative;
+}
+
+header.header .feature .container h2 {
+  color: #000;
+}
