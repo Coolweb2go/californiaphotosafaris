@@ -9,10 +9,13 @@ feature_image: assets/images/sunset.webp
 {% include button.html text="Explore Los Angeles" icon="github" link="https://losangelesphotosafaris.com/" color="#0366d6" %}
 {% include button.html text="Explore San Diego" icon="github" link="https://sandiegophotosafari.net/" color="#FFA500" %}
 
+[Balboa Park Photo Tour](https://americabyrailandbus.files.wordpress.com/2022/02/balboa-park-portrait-shoot-san-diego-.jpg)
+
 ## Top most popular cities to visit in California
-San Francisco
-Los Angeles
-San Diego
+
+-San Francisco
+-Los Angeles
+-San Diego
 
 
 
