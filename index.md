@@ -1,7 +1,7 @@
 ---
 title: A Guide to finding your new home
 feature_text: "## Best Cities toi Live in the USA"
-feature_image: /assets/images/sunset.webp
+feature_image: https://coolweb2go.github.io/californiaphotosafaris/assets/images/sunset.webp
 excerpt: "“Leaving the Bay Area is the best thing you can do right now, if you have
   a dream.”"
 
