@@ -6,7 +6,7 @@ excerpt: This site was created to guide Californians who want to move to a more 
   state
 
 ---
-Need to book a photo tour. I can be reach by cell or email : ellesnapsvideo@gmail.com
+Need to book a photo tour. I can be reach by text 619 694-7522. or email : ellesnapsvideo@gmail.com
 
 ### Schedule a photo tour with us
 
