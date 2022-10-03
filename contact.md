@@ -8,6 +8,6 @@ excerpt: This site was created to guide Californians who want to move to a more 
 ---
 Need to book a photo tour
 
-### Page Content Heading
+### Schedule a photo tour with us
 
-Write content here
+I am now scheduling walking photo tours in San DIego, Los Angeles, and San Francisco for the months of November and December 2022
