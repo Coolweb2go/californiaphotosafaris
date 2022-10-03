@@ -5,7 +5,7 @@ feature_image: assets/images/sunset.webp
 published: false
 
 ---
-### Fun travel & photography tours for beginners & advance shooters. 
+### Fun travel & photography tours for beginners & advance shooters.
 
 ### Learn about the culture & history of California's most popular tourist destinations & capture the vibe & lifestyle with your digital camera or Iphone.
 
@@ -24,6 +24,6 @@ Select starting point of either Balboa Park or Old Town. Meet your instructor fo
 2. Los Angeles
 3. San Diego
 
-### Register for a sightseeing tour. My cell is 619 694-7522
+### Register for a sightseeing tour. My cell is 619 694-7522 . My email is ellesnapsvideo@gmail.com
 
 [Contact us](mailto:mydigitalpicasso@yahoo.com)
