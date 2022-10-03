@@ -7,7 +7,7 @@ excerpt: This site was created to guide Californians who want to move to a more 
 published: false
 
 ---
-Need to book a photo tour
+Need to book a photo tour. I can be reach by cell or email : ellesnapsvideo@gmail.com
 
 ### Schedule a photo tour with us
 
