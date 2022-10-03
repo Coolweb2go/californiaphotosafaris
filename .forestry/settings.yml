@@ -7,8 +7,8 @@ sections:
 - type: heading
   label: Resource Directory
 - type: directory
-  path: Destinations
-  label: Destinations
+  path: tourlocations
+  label: Tour Locations
   create: documents
   match: "**/*"
   templates:
