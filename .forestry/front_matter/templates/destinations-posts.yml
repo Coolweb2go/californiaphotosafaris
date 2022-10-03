@@ -21,3 +21,5 @@ fields:
     schema:
       format: markdown
   label: how to budget your move
+pages:
+- tourlocations/San Diego Balboa Park Photo Walk.md
