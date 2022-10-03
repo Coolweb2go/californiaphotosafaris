@@ -4,7 +4,9 @@ feature_text: "## California Sightseeing Tours & Photo Safaris"
 feature_image: assets/images/sunset.webp
 
 ---
-### Fun travel & photography tours for beginners & advance shooters. Learn about the culture & history of California's most popular tourist destinations & capture the vibe & lifestyle with your digital camera or Iphone.
+### Fun travel & photography tours for beginners & advance shooters. 
+
+### Learn about the culture & history of California's most popular tourist destinations & capture the vibe & lifestyle with your digital camera or Iphone.
 
 {% include button.html text="Explore Los Angeles" icon="github" link="https://losangelesphotosafaris.com/" color="#0366d6" %}
 {% include button.html text="Explore San Diego" icon="github" link="https://sandiegophotosafari.net/" color="#FFA500" %}
