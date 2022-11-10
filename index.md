@@ -2,7 +2,6 @@
 title: Discover the beauty of California through your camera or Iphone
 feature_text: "## California Sightseeing Tours & Photo Safaris"
 feature_image: assets/images/sunset.webp
-published: false
 
 ---
 ### Fun travel & photography tours for beginners & advance shooters.
