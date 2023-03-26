@@ -10,9 +10,7 @@ excerpt: "Visit LA and explore the historic Venice Canals and Venice Boardwalk w
   and skate boarders. We will also check out Muscle Beach and Venice Skate Park.\n\nDates
   available: March 28 – June 28, 2023 \nCost of the 4-hour Walking Photo Tour: $ 200
   per person. To book this photo tour, please send me email to ellesnapsvideo@gmail.com\n"
-feature_text: |
-  ## What states are safe to travel
-  after  Covid-19 restrictions are upgraded
+feature_text: "## los angeles fun walking photo tours now available for booking"
 feature_image: https://sandiegophotosafari.net/wp-content/uploads/2020/12/seagull-la-jolla-cove-san-diego-photo-safari.jpg
 image: https://picsum.photos/2560/600?image=733
 
