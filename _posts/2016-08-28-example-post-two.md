@@ -1,11 +1,9 @@
 ---
-title: Why move to Austin, Texas ?
+title: San Diego Beach Photo Tour
 categories:
 - History
 - External sources
-feature_text: 'Californians find a new home in Austin
-
-'
+feature_text: Book a fun half-day walking photo tour of La Jolla Beach & Cove
 
 ---
 Dioscorides' ambix (described in his De materia medica) is a helmet-shaped lid for gathering condensed mercury. For Athenaeus (~ 225 C.E.) it is a bottle or flask. For later chemists it denotes various parts of crude distillation devices.
