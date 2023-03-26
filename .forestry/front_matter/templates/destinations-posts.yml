@@ -1,7 +1,17 @@
 ---
 label: Destinations  Posts
 hide_body: false
-fields: []
+fields:
+- name: san_diego_iphone_photo_tour
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: San Diego Iphone Photo Tour
+  description: Iphone and mobile phone creative photography tour for beginners
 pages:
 - tourlocations/San Diego Balboa Park Photo Walk.md
 - tourlocations/San Diego Balboa Park Photo Walk.md
