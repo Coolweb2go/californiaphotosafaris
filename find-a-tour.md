@@ -7,7 +7,7 @@ excerpt: This site was created to guide Californians who want to move to a more 
   state
 
 ---
-Page Subtitle Here
+I have photo tours in San Francisco, Los Angeles, & San Diego.From March 28 to June 28, I will be doing my 4-hour walking tours of Venice Beach/Santa Monica, Hollywood/Griffith Park, San Diego Balboa Park, La Jolla Beach tour and many more
 
 ### Page Content Heading
 
